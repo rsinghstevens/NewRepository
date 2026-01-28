@@ -4,8 +4,8 @@
 
 *Italic Text*
 
-> Text that is a quote
-> 
+> Block Quote
+
 ## Ordered List
 1. First item
 2. Second item
